@@ -1,0 +1,12 @@
+{
+  "stable": {
+    "version": "0.18.1",
+    "releaseDate": "2024-01-01T00:00:00Z",
+    "download": {
+      "windows": "https://github.com/tatsuyamiyagi/onest/releases/download/v0.18.1/onest-app-setup.exe",
+      "mac": "https://github.com/tatsuyamiyagi/onest/releases/download/v0.18.1/onest-app.dmg"
+    },
+    "changelog": "現在の安定版リリース"
+  },
+  "beta": null
+}
