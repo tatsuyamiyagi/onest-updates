@@ -1,12 +1,12 @@
 {
   "stable": {
-    "version": "0.18.1",
-    "releaseDate": "2024-01-01T00:00:00Z",
+    "version": "v0.21.0",
+    "releaseDate": "2025-06-30T07:33:17Z",
     "download": {
-      "windows": "https://github.com/tatsuyamiyagi/onest/releases/download/v0.18.1/onest-app-setup.exe",
-      "mac": "https://github.com/tatsuyamiyagi/onest/releases/download/v0.18.1/onest-app.dmg"
+      "windows": "",
+      "mac": "https://github.com/tatsuyamiyagi/onest/releases/download/v0.21.0/onest-app_0.21.0_aarch64.dmg"
     },
-    "changelog": "現在の安定版リリース"
+    "changelog": "# リリースノート v0.21.0\r\n\r\n## 🎯 概要\r\nTypeScriptとESLintのエラーを完全に修正し、コード品質を改善しました。\r\n\r\n## 🔧 主な修正内容\r\n\r\n### TypeScript型エラーの修正\r\n- **Login.tsx**: \r\n  - 未使用のインポート（, ）を削除\r\n  - 未使用のインターフェース（）を削除\r\n  - の可能性がある値にnullish coalescing演算子を適用\r\n  \r\n- **FolderManagement.tsx**: \r\n  - 未使用のインポート（）を削除\r\n  - 未使用のプロパティ（）とインターフェースを削除\r\n  \r\n- **CaseDetail.tsx**: \r\n  - 未使用のインポート（, ）を削除\r\n  - 未使用の関数（）を削除\r\n  - catchブロックの未使用パラメータを削除\r\n\r\n- **App.tsx**: \r\n  - 論理OR演算子をnullish coalescing演算子（）に置き換え\r\n\r\n- **authStorage.ts**: \r\n  - 型を具体的な型に置き換え\r\n  - optional chain式を使用してコードを簡潔化\r\n\r\n- **SettingsPage.tsx**: \r\n  - FolderManagementコンポーネントの不要なプロパティを削除\r\n\r\n### コード品質の向上\r\n- TypeScriptの厳格な型チェックに完全準拠\r\n- ESLintの推奨ルールに完全準拠\r\n- 未使用コードの削除によるバンドルサイズの最適化\r\n\r\n## 📊 品質メトリクス\r\n- ✅ TypeScript型エラー: **0個**\r\n- ✅ ESLintエラー: **0個**\r\n- ✅ ESLint警告: **0個**\r\n\r\n## 🚀 アップグレード方法\r\n1. アプリを起動すると自動的に更新通知が表示されます\r\n2. 「今すぐ更新」をクリックしてダウンロード\r\n3. インストーラーが自動的に起動します\r\n4. 画面の指示に従ってインストールを完了してください\r\n\r\n## 💡 開発者向け情報\r\nこのリリースではコードベースの品質向上に注力しました。すべての型エラーとリンティングエラーを解消し、将来的なメンテナンスが容易になりました。"
   },
   "beta": null
 }
