@@ -10,7 +10,7 @@
   },
   "beta": {
     "version": "v1.240.0",
-    "releaseDate": "2026-04-12T03:19:47.103Z",
+    "releaseDate": "2026-04-12T23:59:19.775Z",
     "download": {
       "windows": "https://github.com/tatsuyamiyagi/onest/releases/download/v1.240.0/onest-app_1.240.0_x64-setup.exe",
       "mac": ""
