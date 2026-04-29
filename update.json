@@ -9,12 +9,12 @@
     "changelog": "# リリースノート v1.175.1\n\n## 🔒 セキュリティ修正（重要）\n- repair_migration_table() から破壊的コードを完全削除\n- マイグレーション履歴の不整合修正のみに限定\n\n## 🛡️ マイグレーション安全性の大幅強化\n- MIGRATOR.run() を10秒タイムアウトに変更（ロック競合対策）\n- マイグレーションエラーを非致命的に変更\n- 安全ネットで補完（ensure_incremental_schema + mark_all_migrations_applied）\n- pg_advisory_lockの古いセッション自動クリーンアップ\n\n## 🔧 環境設定\n- 本番環境にRUST_ENV=production追加（防御層強化）"
   },
   "beta": {
-    "version": "v1.260.0",
-    "releaseDate": "2026-04-29T22:58:10.932Z",
+    "version": "v1.260.1",
+    "releaseDate": "2026-04-29T23:28:39.908Z",
     "download": {
-      "windows": "https://github.com/tatsuyamiyagi/onest/releases/download/v1.260.0/onest-app_1.260.0_x64-setup.exe",
+      "windows": "https://github.com/tatsuyamiyagi/onest/releases/download/v1.260.1/onest-app_1.260.1_x64-setup.exe",
       "mac": ""
     },
-    "changelog": "v1.260.0 リリース"
+    "changelog": "v1.260.1 リリース"
   }
 }
