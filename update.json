@@ -9,12 +9,12 @@
     "changelog": "v1.266.0 リリース"
   },
   "beta": {
-    "version": "v1.261.0",
-    "releaseDate": "2026-04-30T13:19:31.713Z",
+    "version": "v1.266.0",
+    "releaseDate": "2026-05-08T12:07:30.291Z",
     "download": {
-      "windows": "https://github.com/tatsuyamiyagi/onest/releases/download/v1.261.0/onest-app_1.261.0_x64-setup.exe",
+      "windows": "https://github.com/tatsuyamiyagi/onest/releases/download/v1.266.0/onest-app_1.266.0_x64-setup.exe",
       "mac": ""
     },
-    "changelog": "v1.261.0 リリース"
+    "changelog": "v1.266.0 リリース"
   }
 }
