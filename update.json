@@ -1,20 +1,20 @@
 {
   "stable": {
-    "version": "v1.274.1",
-    "releaseDate": "2026-05-13T13:08:48.915Z",
+    "version": "v1.274.2",
+    "releaseDate": "2026-05-13T23:27:41.564Z",
     "download": {
-      "windows": "https://github.com/tatsuyamiyagi/onest/releases/download/v1.274.1/onest-app_1.274.1_x64-setup.exe",
+      "windows": "https://github.com/tatsuyamiyagi/onest/releases/download/v1.274.2/onest-app_1.274.2_x64-setup.exe",
       "mac": ""
     },
-    "changelog": "v1.274.1 リリース"
+    "changelog": "v1.274.2 リリース"
   },
   "beta": {
-    "version": "v1.274.1",
-    "releaseDate": "2026-05-13T13:08:48.915Z",
+    "version": "v1.274.2",
+    "releaseDate": "2026-05-13T23:27:41.564Z",
     "download": {
-      "windows": "https://github.com/tatsuyamiyagi/onest/releases/download/v1.274.1/onest-app_1.274.1_x64-setup.exe",
+      "windows": "https://github.com/tatsuyamiyagi/onest/releases/download/v1.274.2/onest-app_1.274.2_x64-setup.exe",
       "mac": ""
     },
-    "changelog": "v1.274.1 リリース"
+    "changelog": "v1.274.2 リリース"
   }
 }
