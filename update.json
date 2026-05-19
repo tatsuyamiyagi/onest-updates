@@ -1,7 +1,7 @@
 {
   "stable": {
     "version": "v1.288.1",
-    "releaseDate": "2026-05-18T09:23:48.892Z",
+    "releaseDate": "2026-05-19T00:36:06.331Z",
     "download": {
       "windows": "https://github.com/tatsuyamiyagi/onest/releases/download/v1.288.1/onest-app_1.288.1_x64-setup.exe",
       "mac": ""
@@ -10,7 +10,7 @@
   },
   "beta": {
     "version": "v1.288.1",
-    "releaseDate": "2026-05-18T09:23:48.892Z",
+    "releaseDate": "2026-05-19T00:36:06.331Z",
     "download": {
       "windows": "https://github.com/tatsuyamiyagi/onest/releases/download/v1.288.1/onest-app_1.288.1_x64-setup.exe",
       "mac": ""
