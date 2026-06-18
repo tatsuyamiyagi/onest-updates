@@ -1,20 +1,20 @@
 {
   "stable": {
-    "version": "v1.328.3",
-    "releaseDate": "2026-06-17T22:51:19.595Z",
+    "version": "v1.328.4",
+    "releaseDate": "2026-06-18T00:42:41.203Z",
     "download": {
-      "windows": "https://api.onestapp.com/api/v1/app-update/installer?version=1.328.3",
+      "windows": "https://api.onestapp.com/api/v1/app-update/installer?version=1.328.4",
       "mac": ""
     },
-    "changelog": "v1.328.3 リリース"
+    "changelog": "v1.328.4 リリース"
   },
   "beta": {
-    "version": "v1.328.3",
-    "releaseDate": "2026-06-17T22:51:19.595Z",
+    "version": "v1.328.4",
+    "releaseDate": "2026-06-18T00:42:41.203Z",
     "download": {
-      "windows": "https://api.onestapp.com/api/v1/app-update/installer?version=1.328.3",
+      "windows": "https://api.onestapp.com/api/v1/app-update/installer?version=1.328.4",
       "mac": ""
     },
-    "changelog": "v1.328.3 リリース"
+    "changelog": "v1.328.4 リリース"
   }
 }
