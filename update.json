@@ -1,7 +1,7 @@
 {
   "stable": {
     "version": "v1.328.19",
-    "releaseDate": "2026-07-01T05:13:50.697Z",
+    "releaseDate": "2026-07-02T23:08:25.535Z",
     "download": {
       "windows": "https://api.onestapp.com/api/v1/app-update/installer?version=1.328.19",
       "mac": ""
@@ -10,7 +10,7 @@
   },
   "beta": {
     "version": "v1.328.19",
-    "releaseDate": "2026-07-01T05:13:50.697Z",
+    "releaseDate": "2026-07-02T23:08:25.535Z",
     "download": {
       "windows": "https://api.onestapp.com/api/v1/app-update/installer?version=1.328.19",
       "mac": ""
