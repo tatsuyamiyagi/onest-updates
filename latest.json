@@ -1,11 +1,11 @@
 {
-  "version": "v1.310.0",
-  "notes": "v1.310.0 リリース",
-  "pub_date": "2026-05-31T04:19:44.741Z",
+  "version": "1.328.25",
+  "notes": "v1.328.25 リリース",
+  "pub_date": "2026-07-14T03:11:03.250Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSSkZVUHlJbTFNaU1vakVMc0NCVDI4YzBpenM0Tk9wWkx0Wkk4VElyelVISHRiVmpIeFMxc1JkNW1Oa3N3RmFYU0xsdFQ3R1l6WVB1R0pEK1dzaDdNQm1Qdm9RQ1Y5NkEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwMjAxNDU4CWZpbGU6b25lc3QtYXBwXzEuMzEwLjBfeDY0LXNldHVwLmV4ZQpSamZiNDVYMGNrUzdHZWRnaWJjVFF6aXpGZVZ5dEJ1QlN6VTZTb1l5dkE5RHNHQWxOUHR6UHdhaW04aW85OTdhU0E4WTl3aFVjKzBxelhQV2hVT2lDQT09Cg==",
-      "url": "https://github.com/tatsuyamiyagi/onest/releases/download/v1.310.0/onest-app_1.310.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSSkZVUHlJbTFNaUZ2bUd0c2VEOWdsMW9XZ1VaR0hSWVdSNTErQzVYbnAyT09PNkRvZ21LVTRmVHlGQmFGQzRsaWoyd1FjK2hrWjh4U0syMXFCOVZKTFFVaVUweUhjOUFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzOTk4MjQxCWZpbGU6b25lc3QtYXBwXzEuMzI4LjI1X3g2NC1zZXR1cC5leGUKcUdlcWVYWkFwVmlJc2lLOHg3clJwOStXZFFRM0h3VWdxMHBFeVluS0ZEZEpodXA3RGZIWUUrQ0Vhck5QWTdEem9FM2JpMjJ2d1gyK3hlTG1Lek05RGc9PQo=",
+      "url": "https://api.onestapp.com/api/v1/app-update/installer?version=1.328.25"
     }
   }
 }
