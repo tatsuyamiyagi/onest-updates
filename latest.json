@@ -1,11 +1,11 @@
 {
-  "version": "1.331.0",
-  "notes": "v1.331.0 リリース",
-  "pub_date": "2026-07-15T03:21:48.396Z",
+  "version": "1.332.0",
+  "notes": "v1.332.0 リリース",
+  "pub_date": "2026-07-15T06:03:45.639Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSSkZVUHlJbTFNaUZIcVgyTlJGV20ySnlCWUw4elNPTkdGNThkbXdFMTFBQXVvRHJuQUZXa0phemY5MUp6Z1hQZUZnRXYyZkZGVVhncnpKVVduVStIWGROdFpGNm51YkFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0MDg1OTU5CWZpbGU6b25lc3QtYXBwXzEuMzMxLjBfeDY0LXNldHVwLmV4ZQoxbDJqS3dicmxLdzU0Z2x2Um1iVXJudVdqa2FpZHNHV1FaeTBKUFRkL2gybkNZVG9kdHNwRWhLU3JlbWJmYWdYb2ZFanZyczlvbXhIdWFteEU5Z05CUT09Cg==",
-      "url": "https://api.onestapp.com/api/v1/app-update/installer?version=1.331.0"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSSkZVUHlJbTFNaUtPdlJRNDUwMFpzdEZDVk1TZlJrZ1orZTd1cXg3WlpIQVg1aFZuek5wS3c0NndOZ2YrK3k1TW4xOEhyRVFvbldkYnJ3SDZMQ1lMWlljazd3TGZHNUFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0MDk1NTc4CWZpbGU6b25lc3QtYXBwXzEuMzMyLjBfeDY0LXNldHVwLmV4ZQpYVkI3SFhORUpjWUZyZnJDL1R2VmhyeG52VjZFNnZWb0xnVVVOa3NuTzJYRjlnd3p6ZEk1cUh3L0hyajdpQnIrakdzLzYzYUJBOXBtVEN0b0ZIbjdDQT09Cg==",
+      "url": "https://api.onestapp.com/api/v1/app-update/installer?version=1.332.0"
     }
   }
 }
